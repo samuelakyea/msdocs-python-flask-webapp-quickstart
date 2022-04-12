@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'samswebsites'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_86636C6ED9314C809A7949198DB901FD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4491D9EB6A6F4AD2A91F7773C58C43A4 }}
